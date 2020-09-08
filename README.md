@@ -102,4 +102,4 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+With this first practice we learned the basic aspects of the Kicad program. We learned how to add libraries, create projects, insert different components and also how to connect them. At first, I felt the program a little difficult to use, but after practicing in class, the practice itself wasn't so diffcicult, you just had to make sure to be using the correct components because there are some components with the same name but that belong to different libraries. The hardest part of this laboratory practice was that the schematic was too little and some values of voltages and resistances weren't very clear, even with a lot of zoom, besides from that, the practice was very simple and useful in order to understand how to use Kicad for future projects. 
